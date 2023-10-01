@@ -10,7 +10,7 @@ OutpatientSchedulerAPI is a simple API for managing outpatient appointments with
 
 ## Live API Demo
 
-You can try out the live API by following this link: [Live API](https://outpatientschedulerapi-03cx.onrender.com/)
+You can try out the live API by following this link : [Live API](https://outpatientschedulerapi-03cx.onrender.com/)
 
 ## Getting Started
 
