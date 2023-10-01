@@ -8,6 +8,10 @@ OutpatientSchedulerAPI is a simple API for managing outpatient appointments with
 - Get details about a specific doctor.
 - Book an appointment with a doctor.
 
+## Live API Demo
+
+You can try out the live API by following this link: [Live API](https://outpatientschedulerapi-03cx.onrender.com/)
+
 ## Getting Started
 
 To get started with this API, follow the instructions below:
